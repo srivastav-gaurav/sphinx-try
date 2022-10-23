@@ -1,4 +1,4 @@
-[![Deploy static content to Pages](https://github.com/srivastav-gaurav/sphinx-try/actions/workflows/static.yml/badge.svg)](https://github.com/srivastav-gaurav/sphinx-try/actions/workflows/static.yml)
+[![Deploy static content to Pages](https://github.com/srivastav-gaurav/sphinx-try/actions/workflows/static.yml/badge.svg?event=page_build)](https://github.com/srivastav-gaurav/sphinx-try/actions/workflows/static.yml)
 
 Lumache
 =======
